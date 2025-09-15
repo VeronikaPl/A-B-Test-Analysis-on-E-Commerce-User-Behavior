@@ -1,4 +1,4 @@
-# A/B Test Analysis on E-Commerce User Behavior
+### A/B Test Analysis on E-Commerce User Behavior
 Exploring e-commerce user behavior through A/B testing with Python, statistics, and visualization.
 
 
@@ -8,7 +8,7 @@ The experiment tested whether adding an extra payment option (PayPal) improved t
 The goal was to evaluate the effect of the change on conversion rates across different funnel stages and provide data-driven recommendations.
 
 
-🛠️ Tools & Technologies
+🛠️ **Tools & Technologies**
 
 - Python (pandas, numpy, scipy, matplotlib, seaborn)
 
@@ -17,7 +17,7 @@ The goal was to evaluate the effect of the change on conversion rates across dif
 - Data cleaning and visualization
 
 
-🔑 Key Steps
+🔑 **Key Steps**
 
 - Data preparation and cleaning
 
@@ -30,7 +30,7 @@ The goal was to evaluate the effect of the change on conversion rates across dif
 - Visualization of results and insights
 
 
-📈 Conclusion
+📈 **Conclusion**
 
 The A/B test confirms that **adding PayPal as an additional payment option on the credit card form significantly improves the payment conversion rate** and has a positive impact on ARPU. The test results demonstrate statistically significant improvements in both key metrics.
 
